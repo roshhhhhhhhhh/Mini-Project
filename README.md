@@ -1,25 +1,19 @@
-# SC1015-Mini-Project
+# SC1015 Mini Project - Detecting Fake News
+![image](https://user-images.githubusercontent.com/41039452/233805482-b8e6ebb2-7c03-4af3-900e-36abadd03517.png)
 
-
-## Group Members
-#### Ling Wei Hsuen
-#### Pushparajan Roshini
-#### Lim Shao Jie
-
-## Practical Motivation
+# Practical Motivation
 #### Ill effects of false and dis-information today, especially the recent anti-asian hate crimes from covid-19. 
 
-## Problem Formulation
+# Problem Formulation
 #### Differentiating between real and fake news using title and text
 
 
-## Models Used
-#### Logistic Regression
-
-#### Decision Tree
-#### Random Forest
-#### Support Vector Machine
-#### Ensemble
+#  Models used
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. Support Vector Machine Classifier
+5. Ensemble
 
 ## Results
 #### - 
