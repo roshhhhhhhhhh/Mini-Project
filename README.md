@@ -6,6 +6,9 @@
 #### Pushparajan Roshini
 #### Lim Shao Jie
 
+## Problem Formulation
+#### Differentiating between real and fake news using title and text
+
 
 ## Models Used
 #### Logistic Regression
