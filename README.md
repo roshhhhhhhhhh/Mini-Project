@@ -7,10 +7,10 @@
 
 
 ## Practical Motivation
-#### Ill effects of false and dis-information today, especially the recent anti-asian hate crimes from covid-19. 
+Ill effects of false and dis-information today, especially the recent anti-asian hate crimes from covid-19. 
 
 ## Problem Formulation
-#### Differentiating between real and fake news using title and text
+Differentiating between real and fake news using feature's of the article
 
 ## Data Preparation
 #### 1. Cleaning of junk values in excel:
