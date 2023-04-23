@@ -19,7 +19,9 @@ Examples of junk values are text in index columns
 Requires “encoding='ISO-8859-1'” to read csv
 #### 3. Data Cleaning
 Replacing column labels for better visualisation
+
 Dropping rows with NaN values according to the 5% missing data rule
+
 Changing dtypes
 #### 4. Creating new columns 
 #### 5. Removal of symbols from title and text by creating function
@@ -29,6 +31,7 @@ Using nltk.corpus
 Lemmatisation is the process of converting words to their root form
 #### 8. Sentiment Generation - polarity by creating function
 Using SentimentIntensityAnalyzer from nltk.sentiment.vader
+
 Limited words to 30 for time considerations
 #### 9. Emotion Generation by creating function
 using python package text2emotion
